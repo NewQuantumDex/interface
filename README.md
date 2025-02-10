@@ -10,4 +10,4 @@ Este repositório contém as interfaces gráficas para a Pokedex. A API permite 
 
 ## Tecnologias Usadas
 
-<img src="[https://icongr.am/devicon/java-original.svg](https://www.pngwing.com/en/free-png-zffxh#google_vignette)?size=128&color=currentColor" width="40" height="40" alt="Eclipse Icon">
+<img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" width="40" height="40" alt="Eclipse Icon">
