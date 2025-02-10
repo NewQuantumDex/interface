@@ -1,6 +1,6 @@
 # Pokedex - Interface Gráfica
 
-![Logo com Pokédex Decorado](images/eclipse-logo-pokedex.png)
+
 
 Este repositório contém as interfaces gráficas para um projeto de API de Pokedex. A API permite acessar informações detalhadas sobre os Pokémon, incluindo seus atributos, movimentos e tipos. As interfaces gráficas desenvolvidas aqui têm como objetivo fornecer uma maneira visual e interativa de explorar esses dados.
 
