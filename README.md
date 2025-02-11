@@ -33,7 +33,7 @@ Pokémons vêm em muitos tipos, cada um com características especiais que influ
 ### 🧠 **Tipo Psíquico**
 Pokémons de tipo **Psíquico**, como **Mewtwo** e **Alakazam**, possuem habilidades mentais poderosas, podendo realizar ataques como **Confusão** e **Telequinese**. Eles são fortes contra **Lutador**, mas fracos contra **Fantasma**.
 
-![Mewtwo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png)
+![Pokedex Banner](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png)
 
 ### 🔥 **Tipo Fogo**
 Pokémons como **Charmander**, **Charizard** e **Vulpix** são do tipo Fogo, conhecidos por suas habilidades poderosas de ataque. Fogo é forte contra **Planta** e **Gelo**, mas fraco contra **Água**.
