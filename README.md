@@ -26,8 +26,6 @@ Essa Pokédex vai muito além de uma simples lista. Ela é interativa, trazendo 
 - Ao digitar o nome de um Pokémon na barra de pesquisa, você terá acesso a uma visualização completa de suas informações.
 - Cada Pokémon possui uma **imagem oficial**, garantindo que você possa reconhecê-los facilmente.
 
-![Pikachu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png)
-
 ## 🐉 Tipos de Pokémon
 
 Pokémons vêm em muitos tipos, cada um com características especiais que influenciam suas batalhas e interações. Confira alguns dos tipos mais conhecidos:
