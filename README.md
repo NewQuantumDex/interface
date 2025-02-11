@@ -30,9 +30,6 @@ Essa Pokédex vai muito além de uma simples lista. Ela é interativa, trazendo 
 
 Pokémons vêm em muitos tipos, cada um com características especiais que influenciam suas batalhas e interações. Confira alguns dos tipos mais conhecidos:
 
-### 🧠 **Tipo Psíquico**
-Pokémons de tipo **Psíquico**, como **Mewtwo** e **Alakazam**, possuem habilidades mentais poderosas, podendo realizar ataques como **Confusão** e **Telequinese**. Eles são fortes contra **Lutador**, mas fracos contra **Fantasma**.
-
 ![Pokedex Banner](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png)
 
 ### 🔥 **Tipo Fogo**
